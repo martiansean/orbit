@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: #b9b9b9;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    margin-bottom: 50px;
+}
+#info {
+    margin-top: 10%;
+}
+.landing {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("space.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    vertical-align: middle;
+}
+.landing div {
+    position: absolute;
+    height: 20%;
+    top: 40%;
+    width: 50%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+}
+.landing a:link {
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    border: 2px solid #fff;
+    border-radius: 20px;;
+}
+.ship {
+    margin-top: 20px;
+    border-top:1px solid rgb(34, 34, 34) ;
+    text-align: center;
+}
+
